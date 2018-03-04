@@ -83,7 +83,7 @@
 		background-position: scroll !important;
 		-ms-behavior: url("assets/js/ie/backgroundsize.min.htc");
 		padding: 8em 0 !important;
-		color: #ffffff;
+		color: #800000;
 	}
 
 		#header a {
@@ -117,7 +117,7 @@
 		background-image: none !important;
 		margin-top: 0 !important;
 		padding: 4em 0 !important;
-		color: #ffffff;
+		color: #800000;
 	}
 
 /* Main */
